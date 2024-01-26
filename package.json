@@ -11,7 +11,11 @@
   "dependencies": {
     "@openzeppelin/contracts": "^4.5.0",
     "axios": "^0.26.0",
+    "buffer": "^6.0.3",
+    "file-system": "^2.2.2",
+    "fs": "^0.0.1-security",
     "ipfs-http-client": "^56.0.1",
+    "kubo-rpc-client": "^3.0.2",
     "next": "12.1.0",
     "next-themes": "^0.1.1",
     "react": "17.0.2",
